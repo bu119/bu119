@@ -12,6 +12,10 @@
 <br><br>
   
 <div align="center">
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=bu19&theme=radical&border_radius=10)](https://git.io/streak-stats)
+ 
+ 
   📖 Github Stats 📖<br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=bu119&show_icons=true&theme=aura"><br><br>
