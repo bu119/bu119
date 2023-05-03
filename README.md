@@ -35,18 +35,15 @@
   
 <div align="center">
  
-  <h3 align="center">😁 Solved 😁</h3><br>
+  <h3 align="center">😁 Solved 😁</h3>
   [![Solved.ac sa01023](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa01023&card_width=1000)](https://solved.ac/profile/sa01023)
  
-  <h3 align="center">📖 GitHub Streak 📖</h3><br>
+  <h3 align="center">📖 GitHub Streak 📖</h3>
   [![GitHub Streak](https://streak-stats.demolab.com?user=bu119&card_width=1000)](https://git.io/streak-stats)
  
   <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-  <div align="center">
-
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
   
-  <h3>📖 Top Langs 📖</h3><br>
+  <h3>📖 Top Langs 📖</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bu119&layout=compact&theme=aura"><br><br>
 </div>
