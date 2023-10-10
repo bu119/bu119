@@ -1,5 +1,4 @@
 <div align="center">
- 1111
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BuGyeong's%20GitHub%20&fontSize=50"/><br>
  
 </div>
