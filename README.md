@@ -12,16 +12,21 @@
 <p>Hello, Everyone! 👋</p>
 <p>I'm Backend developer, BuGyeong Kim! 😊</p>
 
+<!--
 [Portfolio](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)  | 
+-->
+
 [Tistory](https://bu119.tistory.com/)
 
 <br>
 
 <!-- Experience -->
+<!--
 ### 💻 Experience 💻
 삼성 청년 SW 아카데미 8기 수료 (2022.07 ~ 2023.06)
 
 <br>
+-->
 
 <!-- tech stack -->
 ### 📚 Tech Stack 📚
@@ -53,11 +58,12 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   
  <strong>Tool</strong> | 
-   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 <br>
 
