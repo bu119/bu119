@@ -1,4 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BuGyeong's%20GitHub%20&fontSize=50"/><br>
+<!-- GitHub Hits -->
+<div align="start">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbu119&count_bg=%23FFD700&title_bg=%23FFB100&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
+
+<!-- Header -->
+<div align="start">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BuGyeong's%20GitHub%20&fontSize=50"/><br>
+</div>
+
+<!-- Introduce -->
 
 ### 📚 Tech Stack 📚
  <strong>Language</strong> | 
@@ -38,7 +48,11 @@
 [![Solved.ac sa01023](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa01023&card_width=1000)](https://solved.ac/profile/sa01023)
 <img src="http://mazandi.herokuapp.com/api?handle=sa01023&theme=warm"/>
 
-<br>
+### 📖 Top Languages 📖
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bu119&layout=compact&card_width=800)](https://github.com/bu119/github-readme-stats)
+ 
+### 👩‍💻 GitHub Streak 👩‍💻 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bu119&card_width=800)](https://git.io/streak-stats)
 
-### 💡 My GitHub Stats 💡
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+### 💡 Github Stats 💡
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bu119&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=800)](https://github.com/bu119/github-readme-stats)
