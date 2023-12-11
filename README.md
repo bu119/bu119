@@ -12,6 +12,9 @@
 <p>Hello, Everyone! 👋</p>
 <p>I'm Backend developer, Bugyeong Kim! 😊</p>
 
+[Portfolio](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)  | 
+[Tistory](https://bu119.tistory.com/)
+
 <br>
 
 <!-- Experience -->
