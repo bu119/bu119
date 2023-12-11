@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <div align="start">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BuGyeong's%20GitHub%20&fontSize=50"/><br>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=BuGyeong's%20GitHub%20&fontSize=60"/><br>
 </div>
 
 <!-- Introduce -->
