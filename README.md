@@ -10,7 +10,7 @@
 
 <!-- Introduce -->
 <p>Hello, Everyone! 👋</p>
-<p>I'm Backend developer, BuGyeong Kim! 😊</p>
+<p>I'm Backend developer, BuGyeong! 😊</p>
 
 <!--
 [Portfolio](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)  | 
@@ -71,9 +71,11 @@
 [![Solved.ac sa01023](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa01023&card_width=1000)](https://solved.ac/profile/sa01023)
 <img src="http://mazandi.herokuapp.com/api?handle=sa01023&theme=warm"/>
 
+<!--
 ### 📖 Top Languages 📖
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bu119&layout=compact&card_width=800)](https://github.com/bu119/github-readme-stats)
- 
+-->
+
 ### 👩‍💻 GitHub Streak 👩‍💻 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bu119&card_width=800)](https://git.io/streak-stats)
 
