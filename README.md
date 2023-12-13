@@ -10,7 +10,7 @@
 
 <!-- Introduce -->
 <p>Hello, Everyone! 👋</p>
-<p>I'm Backend developer, BuGyeong! 😊</p>
+<p>I'm Bugyeong Kim, Backend developer. 👩‍💻 </p>
 
 <!--
 [Portfolio](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)  | 
@@ -74,10 +74,10 @@
 <!--
 ### 📖 Top Languages 📖
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bu119&layout=compact&card_width=800)](https://github.com/bu119/github-readme-stats)
+
+### 💡 Github Stats 💡
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bu119&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=800)](https://github.com/bu119/github-readme-stats)
 -->
 
 ### 👩‍💻 GitHub Streak 👩‍💻 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bu119&card_width=800)](https://git.io/streak-stats)
-
-### 💡 Github Stats 💡
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bu119&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=800)](https://github.com/bu119/github-readme-stats)
