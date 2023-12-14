@@ -14,22 +14,25 @@
 
 <!--
 [Portfolio](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)  | 
+포트폴리오 링크 : [포트폴리오](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)
 -->
+[Tistory](https://bu119.tistory.com/) <br/>
 
-[Tistory](https://bu119.tistory.com/)
 
-<br>
+<br/>
 
 <!-- Experience -->
-<!--
-### 💻 Experience 💻
-삼성 청년 SW 아카데미 8기 수료 (2022.07 ~ 2023.06)
+## 😁 Experience
+
+| 활동 | 기간 | 비고|
+| ------ | ------ | ------ |
+|    SSAFY      | 2022.07 ~ 2023.06 | 삼성 청년 SW 아카데미 8기 |
+
 
 <br>
--->
 
 <!-- tech stack -->
-### 📚 Tech Stack 📚
+## 📚 Tech Stack
  <strong>Language</strong> | 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/>
@@ -66,17 +69,19 @@
 
 <br>
 
-### 😁 Baekjoon Online Judge Solved 😁
+## 👩‍💻 Baekjoon Online Judge Solved
 [![Solved.ac sa01023](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa01023&card_width=1000)](https://solved.ac/profile/sa01023)
 <img src="http://mazandi.herokuapp.com/api?handle=sa01023&theme=warm"/>
 
+<br>
+
 <!--
-### 📖 Top Languages 📖
+### 📖 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bu119&layout=compact&card_width=800)](https://github.com/bu119/github-readme-stats)
 
 ### 💡 Github Stats 💡
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bu119&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=800)](https://github.com/bu119/github-readme-stats)
 -->
 
-### 👩‍💻 GitHub Streak 👩‍💻 
+## 💡 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=bu119&card_width=800)](https://git.io/streak-stats)
