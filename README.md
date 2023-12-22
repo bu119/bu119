@@ -83,5 +83,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bu119&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=800)](https://github.com/bu119/github-readme-stats)
 -->
 
-## 💡 GitHub Streak
+## 🟩 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=bu119&card_width=800)](https://git.io/streak-stats)
