@@ -71,7 +71,6 @@
 
 ## 👩‍💻 Baekjoon Online Judge Solved
 [![Solved.ac sa01023](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa01023&card_width=1000)](https://solved.ac/profile/sa01023)
-<img src="http://mazandi.herokuapp.com/api?handle=sa01023&theme=warm"/>
 
 <br>
 
