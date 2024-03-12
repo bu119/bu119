@@ -1,12 +1,9 @@
 <!-- GitHub Hits -->
-<div align="start">
+<div align="end">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbu119&count_bg=%23FFD700&title_bg=%23FFB100&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 
-<!-- Header -->
-<div align="start">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=BuGyeong's%20GitHub%20&fontSize=60"/><br>
-</div>
+<br>
 
 <!-- Introduce -->
 <p>Hello, Everyone! 👋</p>
@@ -17,7 +14,6 @@
 포트폴리오 링크 : [포트폴리오](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)
 -->
 [Tistory](https://bu119.tistory.com/) <br/>
-
 
 <br/>
 
