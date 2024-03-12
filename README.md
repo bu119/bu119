@@ -1,5 +1,5 @@
 <!-- GitHub Hits -->
-<div align="end">
+<div align="middle">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbu119&count_bg=%23FFD700&title_bg=%23FFB100&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 
@@ -15,7 +15,7 @@
 -->
 [Tistory](https://bu119.tistory.com/) <br/>
 
-<br/>
+<br>
 
 <!-- Experience -->
 ## 😁 Experience
@@ -28,6 +28,7 @@
 <br>
 
 <!-- tech stack -->
+<!--
 ## 📚 Tech Stack
  <strong>Language</strong> | 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -64,6 +65,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
 <br>
+-->
+
 
 ## 👩‍💻 Baekjoon Online Judge Solved
 [![Solved.ac sa01023](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa01023&card_width=1000)](https://solved.ac/profile/sa01023)
@@ -78,5 +81,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bu119&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=800)](https://github.com/bu119/github-readme-stats)
 -->
 
-## 🟩 GitHub Streak
+## ✏️ GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=bu119&card_width=800)](https://git.io/streak-stats)
