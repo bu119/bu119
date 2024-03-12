@@ -1,5 +1,5 @@
 <!-- GitHub Hits -->
-<div align="middle">
+<div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbu119&count_bg=%23FFD700&title_bg=%23FFB100&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 
@@ -9,11 +9,21 @@
 <p>Hello, Everyone! 👋</p>
 <p>I'm Bugyeong Kim, Backend developer. 👩‍💻 </p>
 
+<br>
+  
+<div style="display:flex">
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=medium&link=https://bu119.tistory.com/)](https://bu119.tistory.com/)
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chadoll0724@gmail.com)](mailto:chadoll0724@gmail.com)
+
+</div>
+	
 <!--
 [Portfolio](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)  | 
 포트폴리오 링크 : [포트폴리오](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)
--->
 [Tistory](https://bu119.tistory.com/) <br/>
+-->
 
 <br>
 
