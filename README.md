@@ -11,7 +11,7 @@
 
 <br>
   
-<div style="display:flex">
+<div>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=medium&link=https://bu119.tistory.com/)](https://bu119.tistory.com/)
   
