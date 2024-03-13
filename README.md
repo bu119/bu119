@@ -11,10 +11,9 @@
 
 <br>
   
-<div>
+<div style="display: flex;">
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=medium&link=https://bu119.tistory.com/)](https://bu119.tistory.com/)
-  
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chadoll0724@gmail.com)](mailto:chadoll0724@gmail.com)
 
 </div>
