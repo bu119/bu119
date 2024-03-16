@@ -17,12 +17,6 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chadoll0724@gmail.com)](mailto:chadoll0724@gmail.com)
 
 </div>
-	
-<!--
-[Portfolio](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)  | 
-포트폴리오 링크 : [포트폴리오](https://chadoll.notion.site/664f19556d374ca08653a77a5bd82700?pvs=4)
-[Tistory](https://bu119.tistory.com/) <br/>
--->
 
 <br>
 
